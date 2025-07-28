@@ -1,0 +1,18 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+nltk
+wordcloud
+vaderSentiment
+
+Why these packages?
+
+pandas, numpy: Data manipulation and analysis
+matplotlib, seaborn: Data visualization
+scikit-learn: Machine learning and metrics
+nltk: Natural language processing (tokenization, stopwords, lemmatization)
+wordcloud: For generating word cloud visualizations
+jupyter: (Optional) For running Jupyter 
+VaderSentiment: For rule-based sentiment analysis
